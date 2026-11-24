@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "isbul",
-    "slug": "isbul",
+    "name": "İşKaydır",
+    "slug": "iskaydir",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -11,14 +11,34 @@
     },
     "android": {
       "adaptiveIcon": {
-        "backgroundColor": "#E6F4FE",
+        "backgroundColor": "#E8590C",
         "foregroundImage": "./assets/android-icon-foreground.png",
         "backgroundImage": "./assets/android-icon-background.png",
         "monochromeImage": "./assets/android-icon-monochrome.png"
-      }
+      },
+      "package": "com.furkanbural.iskaydir",
+      "versionCode": 1
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "plugins": [
+      "expo-router",
+      "expo-web-browser",
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "İlan ve logo fotoğrafı seçmek için galerine erişmemiz gerekiyor."
+        }
+      ],
+      "expo-document-picker",
+      [
+        "expo-location",
+        {
+          "locationWhenInUsePermission": "Yakınındaki iş ilanlarını gösterebilmek için konumunu kullanıyoruz."
+        }
+      ]
+    ],
+    "scheme": "iskaydir"
   }
 }

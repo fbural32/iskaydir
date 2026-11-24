@@ -1,0 +1,522 @@
+[
+{
+"name": "Bilgisayar Mühendisliği",
+"group": "Mühendislik"
+},
+{
+"name": "Biyomedikal Mühendisliği",
+"group": "Mühendislik"
+},
+{
+"name": "Biyomühendislik",
+"group": "Mühendislik"
+},
+{
+"name": "Çevre Mühendisliği",
+"group": "Mühendislik"
+},
+{
+"name": "Elektrik Mühendisliği",
+"group": "Mühendislik"
+},
+{
+"name": "Elektrik-Elektronik Mühendisliği",
+"group": "Mühendislik"
+},
+{
+"name": "Elektronik ve Haberleşme Mühendisliği",
+"group": "Mühendislik"
+},
+{
+"name": "Endüstri Mühendisliği",
+"group": "Mühendislik"
+},
+{
+"name": "Enerji Sistemleri Mühendisliği",
+"group": "Mühendislik"
+},
+{
+"name": "Gemi İnşaatı ve Gemi Makineleri Mühendisliği",
+"group": "Mühendislik"
+},
+{
+"name": "Gıda Mühendisliği",
+"group": "Mühendislik"
+},
+{
+"name": "Harita Mühendisliği",
+"group": "Mühendislik"
+},
+{
+"name": "Havacılık ve Uzay Mühendisliği",
+"group": "Mühendislik"
+},
+{
+"name": "İmalat Mühendisliği",
+"group": "Mühendislik"
+},
+{
+"name": "İnşaat Mühendisliği",
+"group": "Mühendislik"
+},
+{
+"name": "Jeofizik Mühendisliği",
+"group": "Mühendislik"
+},
+{
+"name": "Jeoloji Mühendisliği",
+"group": "Mühendislik"
+},
+{
+"name": "Kimya Mühendisliği",
+"group": "Mühendislik"
+},
+{
+"name": "Kontrol ve Otomasyon Mühendisliği",
+"group": "Mühendislik"
+},
+{
+"name": "Maden Mühendisliği",
+"group": "Mühendislik"
+},
+{
+"name": "Makine Mühendisliği",
+"group": "Mühendislik"
+},
+{
+"name": "Malzeme Bilimi ve Mühendisliği",
+"group": "Mühendislik"
+},
+{
+"name": "Mekatronik Mühendisliği",
+"group": "Mühendislik"
+},
+{
+"name": "Metalurji ve Malzeme Mühendisliği",
+"group": "Mühendislik"
+},
+{
+"name": "Nükleer Enerji Mühendisliği",
+"group": "Mühendislik"
+},
+{
+"name": "Orman Endüstri Mühendisliği",
+"group": "Mühendislik"
+},
+{
+"name": "Orman Mühendisliği",
+"group": "Mühendislik"
+},
+{
+"name": "Otomotiv Mühendisliği",
+"group": "Mühendislik"
+},
+{
+"name": "Petrol ve Doğalgaz Mühendisliği",
+"group": "Mühendislik"
+},
+{
+"name": "Polimer Malzeme Mühendisliği",
+"group": "Mühendislik"
+},
+{
+"name": "Tekstil Mühendisliği",
+"group": "Mühendislik"
+},
+{
+"name": "Yazılım Mühendisliği",
+"group": "Mühendislik"
+},
+{
+"name": "Ziraat Mühendisliği",
+"group": "Mühendislik"
+},
+{
+"name": "Su Ürünleri Mühendisliği",
+"group": "Mühendislik"
+},
+{
+"name": "Uçak Mühendisliği",
+"group": "Mühendislik"
+},
+{
+"name": "Matematik",
+"group": "Fen ve Tasarım"
+},
+{
+"name": "Fizik",
+"group": "Fen ve Tasarım"
+},
+{
+"name": "Kimya",
+"group": "Fen ve Tasarım"
+},
+{
+"name": "Biyoloji",
+"group": "Fen ve Tasarım"
+},
+{
+"name": "Moleküler Biyoloji ve Genetik",
+"group": "Fen ve Tasarım"
+},
+{
+"name": "İstatistik",
+"group": "Fen ve Tasarım"
+},
+{
+"name": "Mimarlık",
+"group": "Fen ve Tasarım"
+},
+{
+"name": "İç Mimarlık",
+"group": "Fen ve Tasarım"
+},
+{
+"name": "Peyzaj Mimarlığı",
+"group": "Fen ve Tasarım"
+},
+{
+"name": "Şehir ve Bölge Planlama",
+"group": "Fen ve Tasarım"
+},
+{
+"name": "Endüstriyel Tasarım",
+"group": "Fen ve Tasarım"
+},
+{
+"name": "Grafik Tasarım",
+"group": "Fen ve Tasarım"
+},
+{
+"name": "Tıp",
+"group": "Sağlık"
+},
+{
+"name": "Diş Hekimliği",
+"group": "Sağlık"
+},
+{
+"name": "Eczacılık",
+"group": "Sağlık"
+},
+{
+"name": "Hemşirelik",
+"group": "Sağlık"
+},
+{
+"name": "Ebelik",
+"group": "Sağlık"
+},
+{
+"name": "Fizyoterapi ve Rehabilitasyon",
+"group": "Sağlık"
+},
+{
+"name": "Beslenme ve Diyetetik",
+"group": "Sağlık"
+},
+{
+"name": "Veteriner Hekimliği",
+"group": "Sağlık"
+},
+{
+"name": "İş Sağlığı ve Güvenliği",
+"group": "Sağlık"
+},
+{
+"name": "Sağlık Yönetimi",
+"group": "Sağlık"
+},
+{
+"name": "Odyoloji",
+"group": "Sağlık"
+},
+{
+"name": "İşletme",
+"group": "İktisat, İşletme, Hukuk"
+},
+{
+"name": "İktisat",
+"group": "İktisat, İşletme, Hukuk"
+},
+{
+"name": "Maliye",
+"group": "İktisat, İşletme, Hukuk"
+},
+{
+"name": "Ekonometri",
+"group": "İktisat, İşletme, Hukuk"
+},
+{
+"name": "Muhasebe ve Finans",
+"group": "İktisat, İşletme, Hukuk"
+},
+{
+"name": "Bankacılık ve Finans",
+"group": "İktisat, İşletme, Hukuk"
+},
+{
+"name": "Uluslararası Ticaret ve Lojistik",
+"group": "İktisat, İşletme, Hukuk"
+},
+{
+"name": "Lojistik Yönetimi",
+"group": "İktisat, İşletme, Hukuk"
+},
+{
+"name": "Yönetim Bilişim Sistemleri",
+"group": "İktisat, İşletme, Hukuk"
+},
+{
+"name": "İnsan Kaynakları Yönetimi",
+"group": "İktisat, İşletme, Hukuk"
+},
+{
+"name": "Çalışma Ekonomisi ve Endüstri İlişkileri",
+"group": "İktisat, İşletme, Hukuk"
+},
+{
+"name": "Kamu Yönetimi",
+"group": "İktisat, İşletme, Hukuk"
+},
+{
+"name": "Siyaset Bilimi ve Kamu Yönetimi",
+"group": "İktisat, İşletme, Hukuk"
+},
+{
+"name": "Uluslararası İlişkiler",
+"group": "İktisat, İşletme, Hukuk"
+},
+{
+"name": "Pazarlama",
+"group": "İktisat, İşletme, Hukuk"
+},
+{
+"name": "Turizm İşletmeciliği",
+"group": "İktisat, İşletme, Hukuk"
+},
+{
+"name": "Gastronomi ve Mutfak Sanatları",
+"group": "İktisat, İşletme, Hukuk"
+},
+{
+"name": "Hukuk",
+"group": "İktisat, İşletme, Hukuk"
+},
+{
+"name": "Psikoloji",
+"group": "Sosyal, Eğitim, İletişim"
+},
+{
+"name": "Sosyoloji",
+"group": "Sosyal, Eğitim, İletişim"
+},
+{
+"name": "Sosyal Hizmet",
+"group": "Sosyal, Eğitim, İletişim"
+},
+{
+"name": "Tarih",
+"group": "Sosyal, Eğitim, İletişim"
+},
+{
+"name": "Coğrafya",
+"group": "Sosyal, Eğitim, İletişim"
+},
+{
+"name": "Felsefe",
+"group": "Sosyal, Eğitim, İletişim"
+},
+{
+"name": "Türk Dili ve Edebiyatı",
+"group": "Sosyal, Eğitim, İletişim"
+},
+{
+"name": "İngiliz Dili ve Edebiyatı",
+"group": "Sosyal, Eğitim, İletişim"
+},
+{
+"name": "Mütercim ve Tercümanlık",
+"group": "Sosyal, Eğitim, İletişim"
+},
+{
+"name": "Sınıf Öğretmenliği",
+"group": "Sosyal, Eğitim, İletişim"
+},
+{
+"name": "Okul Öncesi Öğretmenliği",
+"group": "Sosyal, Eğitim, İletişim"
+},
+{
+"name": "İngilizce Öğretmenliği",
+"group": "Sosyal, Eğitim, İletişim"
+},
+{
+"name": "Matematik Öğretmenliği",
+"group": "Sosyal, Eğitim, İletişim"
+},
+{
+"name": "Rehberlik ve Psikolojik Danışmanlık",
+"group": "Sosyal, Eğitim, İletişim"
+},
+{
+"name": "Beden Eğitimi ve Spor",
+"group": "Sosyal, Eğitim, İletişim"
+},
+{
+"name": "Gazetecilik",
+"group": "Sosyal, Eğitim, İletişim"
+},
+{
+"name": "Halkla İlişkiler ve Reklamcılık",
+"group": "Sosyal, Eğitim, İletişim"
+},
+{
+"name": "Radyo, Televizyon ve Sinema",
+"group": "Sosyal, Eğitim, İletişim"
+},
+{
+"name": "Makine (Ön lisans)",
+"group": "Ön lisans (MYO)"
+},
+{
+"name": "Elektrik (Ön lisans)",
+"group": "Ön lisans (MYO)"
+},
+{
+"name": "Elektronik Teknolojisi (Ön lisans)",
+"group": "Ön lisans (MYO)"
+},
+{
+"name": "Mekatronik (Ön lisans)",
+"group": "Ön lisans (MYO)"
+},
+{
+"name": "Endüstriyel Otomasyon (Ön lisans)",
+"group": "Ön lisans (MYO)"
+},
+{
+"name": "Elektrik Enerjisi Üretim, İletim ve Dağıtımı (Ön lisans)",
+"group": "Ön lisans (MYO)"
+},
+{
+"name": "İklimlendirme ve Soğutma (Ön lisans)",
+"group": "Ön lisans (MYO)"
+},
+{
+"name": "Kaynak Teknolojisi (Ön lisans)",
+"group": "Ön lisans (MYO)"
+},
+{
+"name": "Otomotiv Teknolojisi (Ön lisans)",
+"group": "Ön lisans (MYO)"
+},
+{
+"name": "Plastik Teknolojisi (Ön lisans)",
+"group": "Ön lisans (MYO)"
+},
+{
+"name": "Kalite Kontrol (Ön lisans)",
+"group": "Ön lisans (MYO)"
+},
+{
+"name": "Gıda Teknolojisi (Ön lisans)",
+"group": "Ön lisans (MYO)"
+},
+{
+"name": "Kimya Teknolojisi (Ön lisans)",
+"group": "Ön lisans (MYO)"
+},
+{
+"name": "Tekstil Teknolojisi (Ön lisans)",
+"group": "Ön lisans (MYO)"
+},
+{
+"name": "İnşaat Teknolojisi (Ön lisans)",
+"group": "Ön lisans (MYO)"
+},
+{
+"name": "Harita ve Kadastro (Ön lisans)",
+"group": "Ön lisans (MYO)"
+},
+{
+"name": "Mobilya ve Dekorasyon (Ön lisans)",
+"group": "Ön lisans (MYO)"
+},
+{
+"name": "Bilgisayar Programcılığı (Ön lisans)",
+"group": "Ön lisans (MYO)"
+},
+{
+"name": "İş Sağlığı ve Güvenliği (Ön lisans)",
+"group": "Ön lisans (MYO)"
+},
+{
+"name": "Lojistik (Ön lisans)",
+"group": "Ön lisans (MYO)"
+},
+{
+"name": "Dış Ticaret (Ön lisans)",
+"group": "Ön lisans (MYO)"
+},
+{
+"name": "Muhasebe ve Vergi Uygulamaları (Ön lisans)",
+"group": "Ön lisans (MYO)"
+},
+{
+"name": "Bankacılık ve Sigortacılık (Ön lisans)",
+"group": "Ön lisans (MYO)"
+},
+{
+"name": "Büro Yönetimi ve Yönetici Asistanlığı (Ön lisans)",
+"group": "Ön lisans (MYO)"
+},
+{
+"name": "Pazarlama (Ön lisans)",
+"group": "Ön lisans (MYO)"
+},
+{
+"name": "Aşçılık (Ön lisans)",
+"group": "Ön lisans (MYO)"
+},
+{
+"name": "Çocuk Gelişimi (Ön lisans)",
+"group": "Ön lisans (MYO)"
+},
+{
+"name": "Tıbbi Laboratuvar Teknikleri (Ön lisans)",
+"group": "Ön lisans (MYO)"
+},
+{
+"name": "İlk ve Acil Yardım (Ön lisans)",
+"group": "Ön lisans (MYO)"
+},
+{
+"name": "Lise (Genel)",
+"group": "Lise"
+},
+{
+"name": "Meslek Lisesi – Makine",
+"group": "Lise"
+},
+{
+"name": "Meslek Lisesi – Elektrik-Elektronik",
+"group": "Lise"
+},
+{
+"name": "Meslek Lisesi – Kimya / Gıda",
+"group": "Lise"
+},
+{
+"name": "Meslek Lisesi – Muhasebe / Büro",
+"group": "Lise"
+},
+{
+"name": "Meslek Lisesi – Diğer",
+"group": "Lise"
+},
+{
+"name": "Diğer",
+"group": "Diğer"
+}
+]

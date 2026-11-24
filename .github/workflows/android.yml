@@ -1,0 +1,56 @@
+name: Android APK
+
+# Her push'ta APK derler ve "Releases" kısmına indirme linki olarak koyar
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: 17
+
+      - uses: android-actions/setup-android@v3
+
+      - name: Paketleri kur
+        run: npm ci
+
+      - name: Android projesini oluştur
+        run: npx expo prebuild --platform android --no-install
+
+      - name: APK derle
+        working-directory: android
+        run: |
+          chmod +x gradlew
+          ./gradlew assembleRelease --no-daemon
+
+      - name: APK'yı adlandır
+        run: cp android/app/build/outputs/apk/release/app-release.apk IsKaydir.apk
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: IsKaydir-apk
+          path: IsKaydir.apk
+
+      - name: Release'e koy (indirme linki)
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: build-${{ github.run_number }}
+          name: İşKaydır — derleme ${{ github.run_number }}
+          body: Telefona indirip kur. Kurarken "bilinmeyen kaynaklara izin ver" demen gerekebilir.
+          files: IsKaydir.apk
