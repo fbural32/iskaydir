@@ -25,7 +25,8 @@ jobs:
           distribution: temurin
           java-version: 17
 
-      - uses: android-actions/setup-android@v3
+      - name: Android SDK (sunucuda hazır)
+        run: echo "ANDROID_HOME=$ANDROID_HOME" && ls $ANDROID_HOME
 
       - name: Paketleri kur
         run: npm ci
